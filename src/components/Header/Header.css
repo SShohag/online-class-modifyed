@@ -1,0 +1,32 @@
+.header h1{
+    font-size: 75px;
+    font-family: italic, arial;
+    background-color: #A9A9A9;
+    color: white;
+}
+.letter{
+    color: orange;
+}
+.header h1:hover{
+    color: darkorange;
+    
+}
+nav{
+    
+    background-color: dimgray;
+    line-height: 3em;
+    
+}
+nav a{
+    color: white;
+    margin: 10px;
+    font-size:20px;
+    
+}
+nav a:hover{
+    text-decoration:none;
+    color: #585858;
+    background-color: lightgray;
+    padding: 10px;
+    font-weight: bold;
+}

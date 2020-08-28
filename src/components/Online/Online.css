@@ -1,0 +1,37 @@
+.online{
+    border: 1px solid lightslategray;
+    border-radius:10px;
+    margin: 5px;
+    width: 75%;
+    height: 300px;
+    box-shadow: 5px 5px 20px #989898	;
+}
+
+.course-img img{
+    height: 200px;
+    width: 250px;
+    
+}
+.course-img{ 
+    margin:40px;
+
+}
+.course-details{
+   color: white;
+   margin-top:20px;
+}
+#btn-text{
+    color: white;
+}
+#link-btn{
+    margin-top: 10px;
+    color: white;
+    text-decoration:none;
+}
+#link-btn:hover{
+    color: blue;
+}
+.online:hover{
+    transform:  skew(-20deg);
+    transition:  width 3s, height 3s, transform 5s;
+}

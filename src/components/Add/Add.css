@@ -1,0 +1,21 @@
+.add-container {
+    background-color: #a4a4a4;
+    box-shadow: 5px 5px 20px white;
+    display: flex;
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 100px;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+.addImg img{
+    margin-top: 8px;
+    height: 80px;
+    width: 100px;
+}
+.addDetails{
+    margin-left: 20px;
+    margin-top: 5px;
+}
